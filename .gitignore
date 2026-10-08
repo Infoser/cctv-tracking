@@ -1,0 +1,20 @@
+# Uploaded videos, person photos and generated reports (private data!)
+jobs/
+output/
+*_zones.json
+
+# Model weights (downloaded automatically on first run)
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

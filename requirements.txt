@@ -1,0 +1,7 @@
+flask
+ultralytics>=8.3.0
+opencv-python
+numpy
+imageio-ffmpeg
+openpyxl
+pillow
